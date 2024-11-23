@@ -2,7 +2,7 @@
 用于一加云盘照片批量下载
 ### 1.进入照片列表页面
 
-![image-20240325010302748](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/blob/main/IMG/1732381122032.png)
+![1732381122032.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/blob/main/IMG/1732381122032.png)
 
 ### 2.通过f12抓到这个请求
 
