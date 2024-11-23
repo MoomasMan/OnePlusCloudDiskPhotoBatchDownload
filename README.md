@@ -5,24 +5,24 @@
 
 ### 1.进入照片列表页面
 
-![1732380651753.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/PNG/image-20240325010302748.png)
+![1732380651753.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/IMG/1732380651753.png)
 
 ### 2.通过f12抓到这个请求
 
-![1732380923873.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/PNG/image-20240325010406609.png)
+![1732380923873.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/IMG/1732380923873.png)
 
 
 ### 3.右键复制为cURL(bash) 这是edge的用法
 
-![1732381122018.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/PNG/image-20240325010406609.png)
+![1732381122018.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/IMG/1732381122018.png)
 
 ### 4.进入 [爬虫工具库-spidertools.cn](https://spidertools.cn/#/curl2Request) copy进去 
 
-![1732381122032.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/PNG/image-20240325010636472.png)
+![1732381122032.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/IMG/1732381122032.png)
 
 ### 5.取 cookie与 headers 的内容复制到 get_image_ids.py 和 get_image_urls.py 代码文件中 
 
-![1732384351249.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/PNG/image-20240325010817153.png?raw=true)
+![1732384351249.png](https://github.com/MoomasMan/OnePlusCloudDiskPhotoBatchDownload/tree/main/IMG/1732384351249.png)
 
 ### 6.PYthon环境准备与脚本运行
 
